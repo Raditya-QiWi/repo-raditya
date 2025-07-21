@@ -1,0 +1,5 @@
+database :
+
+Raditya : Jakarta
+Ariq : Bandung
+Dika : Jakarta
