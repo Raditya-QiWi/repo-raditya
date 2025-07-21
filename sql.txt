@@ -1,5 +1,5 @@
 database :
 
-Raditya : Jakarta
+Raditya : Bandung
 Ariq : Bandung
-Dika : Jakarta
+Chesa : Bogor
