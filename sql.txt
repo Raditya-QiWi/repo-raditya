@@ -3,3 +3,4 @@ database :
 Raditya : Bandung
 Ariq : Bandung
 Chesa : Bogor
+Dika : jakarta
